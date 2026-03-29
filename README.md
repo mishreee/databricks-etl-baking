@@ -109,10 +109,6 @@ databricks-etl-baking/
 
 ---
 
-## resume context
-
-> Built an end-to-end ETL pipeline in Databricks Lakeflow using the Spoonacular API — extracted raw recipe data, applied medallion architecture (Bronze/Silver/Gold) with PySpark transformations including custom UDFs for complexity scoring, and loaded aggregated results into Delta Lake materialized views.
-
 ---
 
 ## author
